@@ -20,6 +20,10 @@ public class NumberCheck {
     }
 }
 
+
+
+
+
 2.check the minimum number.
 import java.util.Scanner;
 public class NumberCheck {
@@ -34,6 +38,10 @@ public class NumberCheck {
             System.out.println("Min="+m);
 }
 }
+
+
+
+
 3.AVL DATA TREE
 class Main {
     static class Node {
